@@ -1,1 +1,1 @@
-# Nizov-Denis
+# Nizov-Denis Algorithmization
