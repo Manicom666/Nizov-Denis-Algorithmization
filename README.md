@@ -9,3 +9,6 @@ ___
 люблю  есть яблоко
 привет
 **кот**
+## ***Ссылки на папку "Алгоритмизация"***
+https://drive.google.com/drive/folders/1BEoWXBsYxJoWbbp0_3ySMWGJ2o7ycjRF
+___
