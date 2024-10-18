@@ -12,3 +12,6 @@ ___
 ## ***Ссылка на папку "Алгоритмизация"***
 https://drive.google.com/drive/folders/1BEoWXBsYxJoWbbp0_3ySMWGJ2o7ycjRF
 ___
+## ***Новелла "Зачетная ведомость"***
+https://twinery.org/2/#/stories/b2660f2f-78d6-44b5-9bf6-33633e35fe59
+___
