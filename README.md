@@ -18,3 +18,6 @@ ___
 ## ***Презентация "Тела вращения вокруг нас"
 [ГБПОУ Московской области Люберецкий техникум имени Героя Советского.pptx](https://github.com/user-attachments/files/17464783/default.pptx)
 ___
+## ***Резюме***
+https://docs.google.com/document/d/18C3C7u4cjMkVb_C3HX2EXTwUdd_SCY51/edit?usp=drive_link&ouid=115293895538033593037&rtpof=true&sd=true
+___
